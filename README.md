@@ -1,5 +1,5 @@
 # python-Rabin-Karp-algorithm
-This Python implementation of the Rabin-Karp algorithm finds the location of every occurence of a pattern string in a text string. The pattern string is no longer than the text string.
+This Python implementation of the Rabin-Karp algorithm finds the location of every occurence of a pattern string in a text string with O(N) time complexity, versus the naive approach with O(N^2) time complexity. The pattern string is no longer than the text string.
 
 The program accepts as inputs:
   a first console input, the pattern string to search for in the text string.
